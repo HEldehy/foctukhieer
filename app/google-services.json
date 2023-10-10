@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "855699233398",
+    "project_id": "octukheir-626f5",
+    "storage_bucket": "octukheir-626f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855699233398:android:9ef484645c10f8e4531d57",
+        "android_client_info": {
+          "package_name": "com.firststeps.foktukhier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lHb4fwnDAt6PTZC6MVeiHSHHOkoHyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855699233398:android:f61ab34a8a40d53a531d57",
+        "android_client_info": {
+          "package_name": "com.firststeps.octukheir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lHb4fwnDAt6PTZC6MVeiHSHHOkoHyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855699233398:android:c99e6572c64feb81531d57",
+        "android_client_info": {
+          "package_name": "com.firststeps.octukhieracadmy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lHb4fwnDAt6PTZC6MVeiHSHHOkoHyzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
